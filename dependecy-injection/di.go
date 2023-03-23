@@ -1,4 +1,4 @@
-package main
+package dependecy_injection
 
 import (
 	"fmt"
